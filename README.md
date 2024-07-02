@@ -14,7 +14,7 @@ Este projeto é uma API RESTful desenvolvida em Flask, utilizando SQLite como ba
 **Passos Gerais:**
 
 **1. Clonar o Repositório:**
-   </br></br>git clone https://github.com/seu-usuario/seu-repositorio.git
+   </br></br>git clone https://github.com/Ander20n/API_Flask.git
    </br>Depois abrir o repositório no local onde você salvou no seu computador
    
 **2. Configurar Ambiente Virtual:**
